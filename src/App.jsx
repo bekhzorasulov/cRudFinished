@@ -1,7 +1,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import MainLayout from "./layouts/MainLayout";
 import { Home } from "./pages/Home";
-import { Create } from "./pages/create";
+import { Create } from "./pages/Create";
 import { useEffect, useState } from "react";
 import ReadTodo from "./pages/ReadTodo";
 
